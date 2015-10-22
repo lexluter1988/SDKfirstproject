@@ -3,7 +3,7 @@
 
 int main(){
 	char str[1024]="";
-	strncpy(str, "Hello World", sizeof(str));
+	strncpy(str, "Hello Bitch", sizeof(str));
 	printf("%s\n", str);
 	return(0); 
 }
